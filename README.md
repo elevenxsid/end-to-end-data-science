@@ -49,7 +49,7 @@ Design and implement a scalable and reproducible data science pipeline that tran
 ---
 
 ## 📁 Project Structure
-'''
+```
 ├── data/                # Raw and processed datasets
 ├── notebooks/           # EDA and experimentation notebooks
 ├── src/                 # Source code for preprocessing and modeling
@@ -57,7 +57,8 @@ Design and implement a scalable and reproducible data science pipeline that tran
 ├── reports/             # Visualizations and results
 ├── README.md
 └── requirements.txt
-'''
+```
+
 ---
 
 ## 📈 Key Learnings
