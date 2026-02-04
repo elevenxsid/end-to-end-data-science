@@ -1,2 +1,18 @@
 # end-to-end-data-science
-End-to-end data science project covering data collection, cleaning, EDA, feature engineering, model training, evaluation, and insights. Built using Python with a structured, reproducible workflow following real-world data science best practices.
+This repository demonstrates a complete end-to-end data science workflow, covering every stage from raw data to actionable insights and model deployment readiness.
+
+The project includes:
+
+Problem understanding and data collection
+
+Data cleaning, preprocessing, and feature engineering
+
+Exploratory Data Analysis (EDA) with visualizations
+
+Model building, evaluation, and comparison
+
+Reproducible pipelines and structured project layout
+
+Clear documentation for scalability and maintainability
+
+The goal of this repository is to showcase practical data science skills, best practices, and real-world problem-solving using Python and industry-standard tools.
